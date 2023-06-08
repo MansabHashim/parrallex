@@ -1,0 +1,60 @@
+body{margin: 0;
+background-color: rgb(58, 53, 53);
+font-size: 16px;
+font-family: sans-serif;
+text-align: center;
+line-height: 1.5;
+color: white;
+}
+
+.fimg1{ background-image: url(images/Red\ and\ Black\ Dark\ Gamer\ Sports\ YouTube\ Channel\ Art.png);
+    height: 99vh;}
+
+.fimg2{ background-image: url(images/wallpaperflare.com_wallpaper\ \(3\).jpg);
+        height: 400px;}
+
+.fimg3{ background-image: url(images/wallpaperflare.com_wallpaper\ \(4\).jpg);
+        height: 400px;}
+
+.fimg4{ background-image: url(images/wallpaperflare.com_wallpaper\ \(9\).jpg);
+        height: 400px;}
+
+.fimg5{ background-image: url(images/wallpaperflare.com_wallpaper\ \(10\).jpg);
+        height: 400px;}
+
+.fimg6{ background-image: url(images/wallpaperflare.com_wallpaper\ \(11\).jpg);
+        height: 400px;}
+
+.fimg1, .fimg2, .fimg3, .fimg4, .fimg5, .fimg6{
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.firstp{
+    position: absolute;
+   color: white;
+   top: 20%;
+   left: 35%;
+   font-size: 6rem;
+   border-radius: 20px;
+   padding: 20px;
+   background-color: blue;
+   box-shadow: 0px 0px 100px   rgb(100, 16, 235);
+}
+
+
+h2{font-size: 3rem;}
+.secondsec{padding: 20px 80px;}
+
+.mansab{color: white; 
+    background-color: blue; 
+    padding: 0px 0px;
+    width: 50%;
+    border-radius: 10px ;
+    text-align: center;
+    margin-left: 25%;
+    justify-content: center;
+box-shadow: 0px 10px 10px  purple;}
